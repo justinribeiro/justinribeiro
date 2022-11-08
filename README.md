@@ -8,7 +8,7 @@ Doctorate student and DM Design and Innovation Fellow @ Weatherhead School of Ma
 
 ### Contact
 
-You can reach me on <a rel="me" href="https://ribeiro.social/@justin">Mastodon</a> or via email at justin@justinribeiro.com or you can follow along on my adventures at <a href="https://justinribeiro.com/" rel="me">https://justinribeiro.com</a>.
+You can reach me on <a rel="nofollow me" href="https://ribeiro.social/@justin">Mastodon</a> or via email at justin@justinribeiro.com or you can follow along on my adventures at <a href="https://justinribeiro.com/" rel="nofollow me">https://justinribeiro.com</a>.
 
 <!--
 **justinribeiro/justinribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
