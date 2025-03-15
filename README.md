@@ -1,6 +1,6 @@
 ### Hello, nice to meet you. 👋
 
-I ♥ the open web. Co-host <a href="https://thewebplatformpodcast.com/">The Web Platform Podcast</a>. Google Developer Expert. Film photographer and mediocre darkroom printer. Maker of sometimes interesting things. Coder of open source curiosities. Always exploring. 
+I ♥ the open web. Co-host <a href="https://thewebplatformpodcast.com/">The Web Platform Podcast</a>. ex-Google Developer Expert. Film photographer and mediocre darkroom printer. Maker of sometimes interesting things. Coder of open source curiosities. Always exploring. 
 
 PhD and DM Design and Innovation Fellow @ Weatherhead School of Management at Case Western Reserve University.
 
