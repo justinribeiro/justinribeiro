@@ -2,7 +2,7 @@
 
 I ♥ the open web. Co-host <a href="https://thewebplatformpodcast.com/">The Web Platform Podcast</a>. ex-Google Developer Expert. Film photographer and mediocre darkroom printer. Maker of sometimes interesting things. Coder of open source curiosities. Always exploring. 
 
-PhD and DM Design and Innovation Fellow @ Weatherhead School of Management at Case Western Reserve University.
+PhD, Designing Sustainable Systems, DM Design and Innovation Fellow, Engaged Practitioner Scholar, Assistant Professor @ Case Western Reserve University.
 
 ☕ powered, 👪 driven, working our (new) tiny 🐤🦆🐢🐇🐹🦜🐝 farm.
 
