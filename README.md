@@ -1,10 +1,12 @@
 ### Hello, nice to meet you. 👋
 
-I ♥ the open web. Co-host <a href="https://thewebplatformpodcast.com/">The Web Platform Podcast</a>. ex-Google Developer Expert. Film photographer and mediocre darkroom printer. Maker of sometimes interesting things. Coder of open source curiosities. Always exploring. 
+> Please note: I have moved nearly all my repos to [https://codeberg.org/justinribeiro](https://codeberg.org/justinribeiro). The others will soon follow.
 
-PhD, Designing Sustainable Systems, DM Design and Innovation Fellow, Engaged Practitioner Scholar, Assistant Professor @ Case Western Reserve University.
+I ♥ the open web. Ex-host <a href="https://thewebplatformpodcast.com/">The Web Platform Podcast</a>. ex-Google Developer Expert. Film photographer and mediocre darkroom printer. Maker of sometimes interesting things. Coder of open source curiosities. Always exploring. 
 
-☕ powered, 👪 driven, working our (new) tiny 🐤🦆🐢🐇🐹🦜🐝 farm.
+PhD, Designing Sustainable Systems, DM Design and Innovation Fellow, Engaged Practitioner Scholar, Assistant Professor @ Case Western Reserve University. Adjunct Professor @ Stevens Institute of Technology.
+
+☕️ powered, 👪️ driven, living tiny 🐤🦆🐢🐇🐹🦜🐝 farm existence in the Central Valley of California.
 
 ### Contact
 
